@@ -1,5 +1,6 @@
-# nocom
-
+# project
+## Project technology
+vue3 + ts + sass/scss - class-style-component
 ## Project setup
 ```
 npm install
