@@ -1,6 +1,6 @@
 # project
 ## Project technology
-vue3 + ts + sass/scss - class-style-component
+vue3 + ts + sass/scss - no-class-style-component
 ## Project setup
 ```
 npm install
